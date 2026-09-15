@@ -17,6 +17,7 @@
   <a href="#laboratorio"><img src="https://img.shields.io/badge/Laboratório-161B22?style=flat-square" alt="Laboratório"></a>
   <a href="#github"><img src="https://img.shields.io/badge/Atividade-161B22?style=flat-square" alt="Atividade"></a>
   <a href="#formacao"><img src="https://img.shields.io/badge/Formação-161B22?style=flat-square" alt="Formação"></a>
+  <a href="#contato"><img src="https://img.shields.io/badge/Contato-161B22?style=flat-square" alt="Contato"></a>
 </p>
 
 ---
@@ -27,7 +28,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e desenvolvo soluções que conectam regras de negócio, bancos de dados relacionais, APIs e interfaces. Meu foco está em transformar problemas reais em software organizado, legível e fácil de evoluir.
 
 - 🧠 Estudo **Java, Python, SQL, APIs REST e Domain-Driven Design**
-- 🌱 Desenvolvo o **SoulUp**, uma experiência de gamificação para hábitos sustentáveis
+- 🌱 Desenvolvo o **SoulUp** no **Challenge FIAP 2026**, uma experiência de gamificação para hábitos sustentáveis
 - ⚙️ Automatizo processos com **n8n** e pratico fluxos com **Git, pull requests, code review e CI/CD**
 - 🧩 Uso **React, TypeScript, Vite e Tailwind CSS** para transformar ideias em interfaces funcionais
 
@@ -47,9 +48,8 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 
 | Quero conhecer | Atalho |
 |---|---|
-| Um produto com propósito e experiência moderna | [Abrir SoulUp](https://github.com/matheusruiz-07/Soulup-front) |
-| Trabalho em equipe, issues e evolução por pull requests | [Abrir Challenge-1TDSPO](https://github.com/matheusruiz-07/Challenge-1TDSPO) |
-| Uma contribuição revisada em projeto colaborativo | [Ler o pull request #32](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32) |
+| O SoulUp, projeto do Challenge FIAP 2026 | [Front-end](https://github.com/matheusruiz-07/Soulup-front) · [Repositório do Challenge](https://github.com/matheusruiz-07/Challenge-1TDSPO) |
+| Uma contribuição revisada no Portal de Locais Acessíveis | [Ler o pull request #32](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32) |
 | Todo o código publicado | [Explorar repositórios](https://github.com/matheusruiz-07?tab=repositories) |
 
 ---
@@ -96,16 +96,16 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/matheusruiz-07/Soulup-front">🌱 SoulUp</a></h3>
-<p>Experiência de gamificação criada para incentivar hábitos sustentáveis.</p>
+<h3><a href="https://github.com/matheusruiz-07/Soulup-front">🌱 SoulUp — Challenge FIAP 2026</a></h3>
+<p>Experiência de gamificação criada para incentivar hábitos sustentáveis, desenvolvida como projeto do Challenge FIAP.</p>
 <p><strong>React · TypeScript · Vite · Tailwind CSS</strong></p>
-<a href="https://github.com/matheusruiz-07/Soulup-front">Explorar repositório →</a>
+<a href="https://github.com/matheusruiz-07/Soulup-front">Abrir front-end →</a> · <a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">Ver repositório do Challenge →</a>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">🚀 Challenge-1TDSPO</a></h3>
-<p>Challenge FIAP desenvolvido de forma colaborativa, com cadastro, validação e interface responsiva.</p>
-<p><strong>TypeScript · Git · Pull Requests · Code Review</strong></p>
-<a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">Abrir Challenge-1TDSPO →</a>
+<h3><a href="https://github.com/1TDSPO-26/portal-locais-acessiveis">♿ Portal de Locais Acessíveis</a></h3>
+<p>Contribuição em projeto colaborativo com cadastro, validação e interface responsiva.</p>
+<p><strong>Git · Pull Requests · Code Review · Colaboração</strong></p>
+<a href="https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32">Analisar minha contribuição →</a>
 </td>
 </tr>
 </table>
@@ -114,19 +114,19 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 <summary><strong>🌱 SoulUp — propósito, experiência e stack</strong></summary>
 <br>
 
-O SoulUp aplica gamificação para incentivar hábitos sustentáveis. O projeto explora uma experiência visual clara, componentes reutilizáveis e uma base tipada com **React, TypeScript, Vite e Tailwind CSS**.
+O SoulUp é o projeto desenvolvido para o **Challenge FIAP 2026**. A solução aplica gamificação para incentivar hábitos sustentáveis e explora uma experiência visual clara, componentes reutilizáveis e uma base tipada com **React, TypeScript, Vite e Tailwind CSS**.
 
-[Explorar código e evolução do projeto →](https://github.com/matheusruiz-07/Soulup-front)
+[Explorar o front-end →](https://github.com/matheusruiz-07/Soulup-front) · [Ver o repositório do Challenge →](https://github.com/matheusruiz-07/Challenge-1TDSPO)
 
 </details>
 
 <details>
-<summary><strong>🚀 Challenge-1TDSPO — colaboração e entrega</strong></summary>
+<summary><strong>♿ Portal de Locais Acessíveis — contribuição colaborativa</strong></summary>
 <br>
 
-Projeto colaborativo voltado à descoberta e ao cadastro de locais e serviços acessíveis. Minha contribuição inclui interface de cadastro, validação, responsividade e trabalho orientado por issues e pull requests.
+Contribuí com interface de cadastro, validação e responsividade em um projeto voltado à descoberta de locais e serviços acessíveis. O trabalho foi organizado por issues, revisão de código e pull requests.
 
-[Abrir Challenge-1TDSPO →](https://github.com/matheusruiz-07/Challenge-1TDSPO) · [Analisar contribuição em pull request →](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32)
+[Analisar a contribuição no pull request #32 →](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32)
 
 </details>
 
@@ -211,9 +211,10 @@ Nos repositórios você encontra código, documentação e evolução dos projet
 
 ---
 
-## Vamos trocar ideias
+<a id="contato"></a>
+## Contato
 
-Gosto de conversar sobre **desenvolvimento back-end, arquitetura, bancos de dados, automação e produtos com impacto real**.
+Veja mais sobre minha trajetória profissional no LinkedIn e acompanhe meus projetos e contribuições pelo GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Ruiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ruiz-giatti/)
 [![GitHub](https://img.shields.io/badge/GitHub-matheusruiz--07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusruiz-07)
