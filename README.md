@@ -48,7 +48,7 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 | Quero conhecer | Atalho |
 |---|---|
 | Um produto com propósito e experiência moderna | [Abrir SoulUp](https://github.com/matheusruiz-07/Soulup-front) |
-| Trabalho em equipe, issues e evolução por pull requests | [Ver Portal de Locais Acessíveis](https://github.com/matheusruiz-07/Challenge-1TDSPO) |
+| Trabalho em equipe, issues e evolução por pull requests | [Abrir Challenge-1TDSPO](https://github.com/matheusruiz-07/Challenge-1TDSPO) |
 | Uma contribuição revisada em projeto colaborativo | [Ler o pull request #32](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32) |
 | Todo o código publicado | [Explorar repositórios](https://github.com/matheusruiz-07?tab=repositories) |
 
@@ -102,10 +102,10 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 <a href="https://github.com/matheusruiz-07/Soulup-front">Explorar repositório →</a>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">♿ Portal de Locais Acessíveis</a></h3>
-<p>Projeto colaborativo com cadastro, validação e interface responsiva.</p>
+<h3><a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">🚀 Challenge-1TDSPO</a></h3>
+<p>Challenge FIAP desenvolvido de forma colaborativa, com cadastro, validação e interface responsiva.</p>
 <p><strong>TypeScript · Git · Pull Requests · Code Review</strong></p>
-<a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">Explorar repositório →</a>
+<a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">Abrir Challenge-1TDSPO →</a>
 </td>
 </tr>
 </table>
@@ -121,12 +121,12 @@ O SoulUp aplica gamificação para incentivar hábitos sustentáveis. O projeto 
 </details>
 
 <details>
-<summary><strong>♿ Portal de Locais Acessíveis — colaboração e entrega</strong></summary>
+<summary><strong>🚀 Challenge-1TDSPO — colaboração e entrega</strong></summary>
 <br>
 
 Projeto colaborativo voltado à descoberta e ao cadastro de locais e serviços acessíveis. Minha contribuição inclui interface de cadastro, validação, responsividade e trabalho orientado por issues e pull requests.
 
-[Ver repositório →](https://github.com/matheusruiz-07/Challenge-1TDSPO) · [Analisar contribuição em pull request →](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32)
+[Abrir Challenge-1TDSPO →](https://github.com/matheusruiz-07/Challenge-1TDSPO) · [Analisar contribuição em pull request →](https://github.com/1TDSPO-26/portal-locais-acessiveis/pull/32)
 
 </details>
 
