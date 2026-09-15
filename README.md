@@ -93,14 +93,22 @@ My current toolkit includes Java, Python, SQL, REST APIs, Domain-Driven Design, 
 <a id="projetos"></a>
 ## Projetos em destaque
 
-<p align="center">
-  <a href="https://github.com/matheusruiz-07/Soulup-front">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusruiz-07&repo=Soulup-front&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="SoulUp">
-  </a>
-  <a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusruiz-07&repo=Challenge-1TDSPO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Portal de Locais Acessíveis">
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/matheusruiz-07/Soulup-front">🌱 SoulUp</a></h3>
+<p>Experiência de gamificação criada para incentivar hábitos sustentáveis.</p>
+<p><strong>React · TypeScript · Vite · Tailwind CSS</strong></p>
+<a href="https://github.com/matheusruiz-07/Soulup-front">Explorar repositório →</a>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">♿ Portal de Locais Acessíveis</a></h3>
+<p>Projeto colaborativo com cadastro, validação e interface responsiva.</p>
+<p><strong>TypeScript · Git · Pull Requests · Code Review</strong></p>
+<a href="https://github.com/matheusruiz-07/Challenge-1TDSPO">Explorar repositório →</a>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><strong>🌱 SoulUp — propósito, experiência e stack</strong></summary>
@@ -154,14 +162,32 @@ Estudando contratos REST, validação, integração entre serviços e automaçõ
 ---
 
 <a id="github"></a>
-## GitHub em números
+## Atividade e colaboração
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusruiz-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusruiz-07&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas">
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/matheusruiz-07?tab=repositories"><strong>📦 Repositórios</strong></a><br>
+<sub>Projetos e estudos publicados</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/matheusruiz-07?tab=overview"><strong>📈 Contribuições</strong></a><br>
+<sub>Evolução e atividade recente</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/pulls?q=is%3Apr+author%3Amatheusruiz-07"><strong>🔀 Pull requests</strong></a><br>
+<sub>Colaboração e revisão de código</sub>
+</td>
+</tr>
+</table>
 
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=matheusruiz-07&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/matheusruiz-07)
+<details>
+<summary><strong>Como ler minha atividade</strong></summary>
+<br>
+
+Nos repositórios você encontra código, documentação e evolução dos projetos. No histórico de contribuições ficam visíveis a frequência de trabalho, os commits e a participação em projetos colaborativos.
+
+</details>
 
 ---
 
